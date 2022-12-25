@@ -28,7 +28,7 @@ $ newman run mycollection
 
 Você deverá ter um resultado semelhante a esse:
 
-![Untitled](Newman+htmlextra%20fd586c2770ab4948af339224bf0e637f/Untitled.png)
+ <img src="./Assets/1-repo.png" alt="Newman Run" /> 
 
 Quanto ao relatório do htmlextra, deverá ser executado o seguinte comando:
 
@@ -38,4 +38,4 @@ Quanto ao relatório do htmlextra, deverá ser executado o seguinte comando:
 
 dessa forma, será criada uma nova pasta dentro do diretório da collection com o arquivo html dos resultados da execução dos testes, e você deverá ter um resultado semelhante à esse:
 
-![Untitled](Newman+htmlextra%20fd586c2770ab4948af339224bf0e637f/Untitled%201.png)
+ <img src="./Assets/2-repo.png" alt="HTML Generated" /> 
