@@ -39,3 +39,7 @@ Quanto ao relatório do htmlextra, deverá ser executado o seguinte comando:
 dessa forma, será criada uma nova pasta dentro do diretório da collection com o arquivo html dos resultados da execução dos testes, e você deverá ter um resultado semelhante à esse:
 
  <img src="./Assets/2-repo.png" alt="HTML Generated" /> 
+
+ Por fim, para conferir os resultados completos da minha execução de teste, você pode fazer o download do arquivo html e comparar com a execução realizada pelo newman conforme abaixo:
+
+  <img src="./Assets/collection-cmder.png" alt="Test Results" /> 
